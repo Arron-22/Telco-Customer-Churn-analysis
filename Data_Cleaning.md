@@ -1,20 +1,20 @@
-Data Cleaning and Preparation
+# Data Cleaning and Preparation
 
 This document shows the process involved to make sure the dataset was cleaned and prepared using Excel before being imported into Power BI for analysis.
 
-Data type Conversion:
+## Data type Conversion:
 
 •	The Monthly Charges and Total Charges columns were originally stored as text.
 
 •	These columns were converted into numeric format to all accurate calculations and aggregation in Power BI
 
-Handling Missing Values:
+## Handling Missing Values:
 
 •	The dataset was checked for missing or null values using filters
 
 •	After converting data types, no missing values were found
 
-Data Validation and Consistency Checks:
+## Data Validation and Consistency Checks:
 
 •	Verified that all numerical columns contained valid values
 
@@ -22,7 +22,7 @@ Data Validation and Consistency Checks:
 
 •	Checked for duplicates and inconsistencies across records
 
-Derived Columns:
+## Derived Columns:
 
 •	Customers were grouped based on their tenure to enable better analysis of churn patterns across different stages of customer lifecycle.
 
