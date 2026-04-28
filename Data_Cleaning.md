@@ -26,7 +26,8 @@ This document shows the process involved to make sure the dataset was cleaned an
 
 •	Customers were grouped based on their tenure to enable better analysis of churn patterns across different stages of customer lifecycle.
 
-Tenure Group: 0-1Year, 1-2 Year, 2-4, Year, 4-5 Year, 5+ Years
+<img width="462" height="193" alt="image" src="https://github.com/user-attachments/assets/8ae8e648-15c5-44de-8b70-2843aa744ab4" />
+
 
 •	Customers were categorized into pricing brands under the MonthlyChargeGroup column to allow easier comparison of churn behaviour across different pricing levels:
 
