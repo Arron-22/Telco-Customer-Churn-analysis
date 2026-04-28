@@ -1,4 +1,4 @@
-#Data Cleaning and Preparation
+Data Cleaning and Preparation
 
 This document shows the process involved to make sure the dataset was cleaned and prepared using Excel before being imported into Power BI for analysis.
 
