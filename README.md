@@ -91,6 +91,8 @@ Customer Churn Rate shows that customers using electronic check have the highest
 
 **Recommendations:**
 
+Based upon the uncovered insights, the following recommendations have been provided:
+
 **Improve Retention of New Customers**
 
 New customers (0–1 year tenure) were identified as the highest-risk group, with a churn rate of 47.44%.
