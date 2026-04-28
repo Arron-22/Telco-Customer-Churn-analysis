@@ -1,4 +1,4 @@
-Telco Customer Churn Analysis Report
+**Telco Customer Churn Analysis Report**
 
 Project Background:
 The telecommunications industry is highly competitive, and customer retention is crucial for long-term business success. In these industries churn rate is a key factor in the success of the business. Customer Churn refers to where a customer stops using a company’s services. Having a high churn rate signifies a high percentage of customers leaving/cancelling the service provided by the business which can be due to a variety of different reasons. Having a high churn rate is unstainable for growth leading in to low reduced revenue coming into the business.
